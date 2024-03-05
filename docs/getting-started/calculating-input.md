@@ -1,0 +1,1 @@
+# Caclulating using input
