@@ -34,6 +34,6 @@ This project only uses documentation pages. To add a new page, create a new mark
 
 Read [Docs Introduction](https://docusaurus.io/docs/docs-introduction) for more information on how to create documentation pages.
 
-## Deployment (github pages) (github actions)
+## Deployment
 
 This project is set up to deploy to GitHub Pages using GitHub Actions. All changes to the `main` branch will trigger the GitHub Actions to build and deploy the website.
