@@ -6,11 +6,11 @@ sidebar_position: 3
 
 ## Calculating molecular data from uploading a CSV file
 
-**Format of uploaded CSV**
+## Format of uploaded CSV
 
 The CSV to be uploaded should contain one column of SMILES. 
 
-**Example of a CSV in table format:**
+## Example of a CSV in table format
 
 |           |
 |-----------|
@@ -40,6 +40,6 @@ When the user inputs the following molecules and select the checkboxes for Numbe
 
 The name of the downloaded CSV will contain the name of the current RDKit version: data_RDKit_[current-version].csv
 
-**Error handling**
+## Error handling
 
 By selecting the "Exclude Invalid SMILES from result" option, any invalid SMILES will be omitted from the CSV output. If this option is not selected, a new column named "Error" will be added to the CSV to highlight the invalid SMILES entries. 
