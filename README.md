@@ -1,3 +1,7 @@
+## About this repo
+
+Documentation for the [MolDescriptor website](https://moldescriptor.com/) ([GitHub-repo](https://github.com/moldescriptor/molecule-descriptors-webtool)
+
 ## Getting Started
 
 This project was built using [Docusaurus](https://docusaurus.io/). Read more about the installation process [here](https://docusaurus.io/docs/installation).
