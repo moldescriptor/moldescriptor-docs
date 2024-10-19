@@ -1,6 +1,6 @@
 ## About this repo
 
-Documentation for the [MolDescriptor website](https://moldescriptor.com/) ([GitHub-repo](https://github.com/moldescriptor/molecule-descriptors-webtool)
+Documentation for the [MolDescriptor website](https://moldescriptor.com/) ([GitHub-repo](https://github.com/moldescriptor/molecule-descriptors-webtool))
 
 ## Getting Started
 
